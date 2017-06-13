@@ -1,0 +1,1 @@
+Ruby, como todos los lenguajes que existen dentro de Mumuki, también puede ser ejecutado por fuera de la plataforma. :open_mouth:
