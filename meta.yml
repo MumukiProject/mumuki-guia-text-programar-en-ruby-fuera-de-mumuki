@@ -3,7 +3,8 @@ name: Programar en Ruby fuera de Mumuki
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: text
 id_format: "%05d"
-order: []
+order:
+- 1
